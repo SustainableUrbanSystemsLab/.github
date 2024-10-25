@@ -4,7 +4,6 @@
        style="max-width: 60%; min-width: 330px;" 
        alt="SustainLab Logo">
 </div>
-<br>
 
 The Sustainable Urban Systems Lab, led by [Dr. Patrick Kastner](/team/) at Georgia Tech's [School of Architecture](https://arch.gatech.edu/) (SoA), focuses on developing innovative tools and methodologies to estimate performance indicators of buildings and cities.
 
