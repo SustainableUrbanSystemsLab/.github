@@ -1,5 +1,5 @@
 <div style="margin-bottom: 20px;">
-  <img src="assets/img/cd/sustainlab-logo-wordmark-color-black.svg" 
+  <img src="assets/img/cd/sustainlab-logo-wordmark-color-white.svg" 
        class="img-fluid theme-aware-logo" 
        style="max-width: 60%; min-width: 330px;" 
        alt="SustainLab Logo">
