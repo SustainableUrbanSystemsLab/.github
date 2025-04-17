@@ -7,7 +7,7 @@
 
 The Sustainable Urban Systems Lab, led by [Dr. Patrick Kastner](/team/) at Georgia Tech's [School of Architecture](https://arch.gatech.edu/) (SoA), focuses on developing innovative tools and methodologies to estimate performance indicators of buildings and cities.
 
-Our mission is to empower urban decision-makers with software tools that place sustainability at the forefront of their profession. We contribute to the MS in Architecture [curriculum](https://arch.gatech.edu/high-performance-building-lab-curriculum) at the SoA with a program concentration in High Performance Building.
+Our mission is to empower urban decision-makers with software tools that place sustainability at the forefront of their profession. We contribute to the MS in Architecture [curriculum](https://arch.gatech.edu/master-science-architecture) at the SoA with a program concentration in High Performance Building.
 
 The lab leads a [VIP][VIP] titled Surrogate Modeling for Urban Regeneration ([SMUR](https://vip-smur.github.io/)), which attracts a diverse group of students ranging from sophomore to graduate level, representing various engineering disciplines and other related fields across Georgia Tech.
 
